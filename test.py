@@ -1,2 +1,2 @@
 test = 123
-another_branch = 12
+another_branch = 123
